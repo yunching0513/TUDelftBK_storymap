@@ -22,11 +22,11 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 大阪萬博荷蘭館（與Bakema合作） | 1970 |
-| 鹿特丹Pompenburg | 1977–1981 |
-| 鹿特丹De Peperklip集合住宅 | 1979–1982 |
-| Spijkenisse地鐵站（荷蘭國家鋼構獎） | 1986 |
-| 海牙De Struyck學生宿舍 | 1996 |
+| [大阪萬博荷蘭館（與Bakema合作）](https://en.wikipedia.org/wiki/Carel_Weeber) | 1970 |
+| [鹿特丹Pompenburg](https://nl.wikipedia.org/wiki/Pompenburg) | 1977–1981 |
+| [鹿特丹De Peperklip集合住宅](https://nl.wikipedia.org/wiki/De_Peperklip) | 1979–1982 |
+| [Spijkenisse地鐵站（荷蘭國家鋼構獎）](https://nl.wikipedia.org/wiki/Spijkenisse_Centrum_(metrostation)) | 1986 |
+| [海牙De Struyck學生宿舍](https://en.wikipedia.org/wiki/Carel_Weeber) | 1996 |
 
 ## 參考資料
 

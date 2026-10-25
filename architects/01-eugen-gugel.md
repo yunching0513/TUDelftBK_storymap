@@ -22,10 +22,10 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 布倫納鐵路相關構造物（Brenner railway） | 1857–1859 |
-| 下巴伐利亞數座法院 | 1860年代初 |
-| 《建築形式學》（Architectonische Vormleer）四卷 | 1880–1888 |
-| 烏特勒支大學學院大樓（Academiegebouw，與Nieuwenhuis合作）設計 | 1891 |
+| [布倫納鐵路相關構造物（Brenner railway）](https://en.wikipedia.org/wiki/Brenner_Railway) | 1857–1859 |
+| [下巴伐利亞數座法院](https://www.dbnl.org/tekst/_els001190201_01/_els001190201_01_0034.php) | 1860年代初 |
+| [《建築形式學》（Architectonische Vormleer）四卷](https://books.google.com/books/about/Architectonische_vormleer.html?id=jzdKnQEACAAJ) | 1880–1888 |
+| [烏特勒支大學學院大樓（Academiegebouw，與Nieuwenhuis合作）設計](https://nl.wikipedia.org/wiki/Academiegebouw_(Utrecht)) | 1891 |
 
 ## 參考資料
 

@@ -22,11 +22,11 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 與杜斯伯格合作的建築模型（Maison particulière等） | 1923 |
-| 柏林Unter den Linden設計競圖首獎 | 1920年代 |
-| 《阿姆斯特丹擴展計畫》（AUP，與Van Lohuizen合作） | 1934 |
-| Slotermeer花園城市設計 | 1939 |
-| 萊利斯塔德（Lelystad）市鎮規劃 | 戰後 |
+| [與杜斯伯格合作的建築模型（Maison particulière等）](https://efl-stichting.nl/en/over-c-van-eesteren/) | 1923 |
+| [柏林Unter den Linden設計競圖首獎](https://en.wikipedia.org/wiki/Cornelis_van_Eesteren) | 1920年代 |
+| [《阿姆斯特丹擴展計畫》（AUP，與Van Lohuizen合作）](https://nl.wikipedia.org/wiki/Algemeen_Uitbreidingsplan) | 1934 |
+| [Slotermeer花園城市設計](https://en.wikipedia.org/wiki/Slotermeer) | 1939 |
+| [萊利斯塔德（Lelystad）市鎮規劃](https://en.wikipedia.org/wiki/Lelystad) | 戰後 |
 
 ## 參考資料
 

@@ -22,10 +22,10 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| Brinkman & Van den Broek事務所，投入鹿特丹戰後重建規劃 | 1937起 |
-| 鹿特丹Lijnbaan商店街（與Bakema合作） | 1949–1953 |
-| 台夫特建築系館（Berlageweg） | 1959–1970 |
-| 台夫特大禮堂（Aula） | 1959–1966 |
+| [Brinkman & Van den Broek事務所，投入鹿特丹戰後重建規劃](https://en.wikipedia.org/wiki/Johannes_Brinkman) | 1937起 |
+| [鹿特丹Lijnbaan商店街（與Bakema合作）](https://en.wikipedia.org/wiki/Lijnbaan) | 1949–1953 |
+| [台夫特建築系館（Berlageweg）](https://nl.wikipedia.org/wiki/Faculteitsgebouw_Bouwkunde_(TU_Delft)) | 1959–1970 |
+| [台夫特大禮堂（Aula）](https://nl.wikipedia.org/wiki/Aula_(TU_Delft)) | 1959–1966 |
 
 ## 參考資料
 

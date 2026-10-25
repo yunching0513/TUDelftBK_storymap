@@ -22,11 +22,11 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 海牙Nirwana公寓 | 1927–1930 |
-| 希爾弗瑟姆Zonnestraal療養院（與Bijvoet合作） | 1928 |
-| 阿姆斯特丹露天學校（Openluchtschool） | 1929–1930 |
-| 阿姆斯特丹Cineac新聞電影院 | 1934 |
-| 希爾弗瑟姆Gooiland飯店 | 1934–1936 |
+| [海牙Nirwana公寓](https://nl.wikipedia.org/wiki/Nirwana-flat) | 1927–1930 |
+| [希爾弗瑟姆Zonnestraal療養院（與Bijvoet合作）](https://nl.wikipedia.org/wiki/Sanatorium_Zonnestraal) | 1928 |
+| [阿姆斯特丹露天學校（Openluchtschool）](https://nl.wikipedia.org/wiki/Eerste_Openluchtschool_voor_het_Gezonde_Kind) | 1929–1930 |
+| [阿姆斯特丹Cineac新聞電影院](https://nl.wikipedia.org/wiki/Cineac_(Amsterdam)) | 1934 |
+| [希爾弗瑟姆Gooiland飯店](https://nl.wikipedia.org/wiki/Grand_Hotel_Gooiland) | 1934–1936 |
 
 ## 參考資料
 

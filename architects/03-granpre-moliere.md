@@ -22,10 +22,10 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 鹿特丹Vreewijk花園村（與Verhagen、Kok合作） | 1916–1919 |
-| 鹿特丹Kralingse Bos公園與IJsselmonde島規劃 | 1921 |
-| Huize De Boogerd住宅，鹿特丹Kralingen | 1930 |
-| Wieringermeer與Noordoostpolder新生地規劃 | 1927起／1937起 |
+| [鹿特丹Vreewijk花園村（與Verhagen、Kok合作）](https://nl.wikipedia.org/wiki/Vreewijk_(Rotterdam)) | 1916–1919 |
+| [鹿特丹Kralingse Bos公園與IJsselmonde島規劃](https://nl.wikipedia.org/wiki/Kralingse_Bos) | 1921 |
+| [Huize De Boogerd住宅，鹿特丹Kralingen](https://tudelft.nl/en/community/alumni/inspiring-alumni/historical-alumni/marinus-jan-granpre-moliere) | 1930 |
+| [Wieringermeer與Noordoostpolder新生地規劃](https://en.wikipedia.org/wiki/Wieringermeer) | 1927起／1937起 |
 
 ## 參考資料
 

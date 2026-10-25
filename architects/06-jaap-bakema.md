@@ -22,11 +22,11 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 鹿特丹Lijnbaan商店街（與Van den Broek合作） | 1949–1953 |
-| 柏林Hansaviertel住宅（Interbau） | 1957 |
-| 德國馬爾市民中心 | 1958–1962 |
-| 台夫特建築系館與大禮堂 | 1959–1970 |
-| 特爾訥曾市政廳 | 1963–1972 |
+| [鹿特丹Lijnbaan商店街（與Van den Broek合作）](https://en.wikipedia.org/wiki/Lijnbaan) | 1949–1953 |
+| [柏林Hansaviertel住宅（Interbau）](https://en.wikipedia.org/wiki/Hansaviertel) | 1957 |
+| [德國馬爾市民中心](https://de.wikipedia.org/wiki/Rathaus_Marl) | 1958–1962 |
+| [台夫特建築系館與大禮堂](https://nl.wikipedia.org/wiki/Faculteitsgebouw_Bouwkunde_(TU_Delft)) | 1959–1970 |
+| [特爾訥曾市政廳](https://nl.wikipedia.org/wiki/Stadhuis_van_Terneuzen) | 1963–1972 |
 
 ## 參考資料
 

@@ -22,12 +22,12 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 台夫特蒙特梭利學校 | 1966–1970 |
-| 台夫特Diagoon實驗住宅 | 1971 |
-| 阿佩多恩Centraal Beheer辦公大樓 | 1968–1972 |
-| 烏特勒支Vredenburg音樂中心 | 1978 |
-| 布雷達Chassé劇院 | 1995 |
-| 《Lessons for Students in Architecture》 | 1991 |
+| [台夫特蒙特梭利學校](https://en.wikipedia.org/wiki/Herman_Hertzberger) | 1966–1970 |
+| [台夫特Diagoon實驗住宅](https://nl.wikipedia.org/wiki/Diagoonwoningen) | 1971 |
+| [阿佩多恩Centraal Beheer辦公大樓](https://nl.wikipedia.org/wiki/Centraal_Beheergebouw_van_Herman_Hertzberger) | 1968–1972 |
+| [烏特勒支Vredenburg音樂中心](https://nl.wikipedia.org/wiki/Muziekcentrum_Vredenburg) | 1978 |
+| [布雷達Chassé劇院](https://nl.wikipedia.org/wiki/Chassé_Theater) | 1995 |
+| [《Lessons for Students in Architecture》](https://en.wikipedia.org/wiki/Herman_Hertzberger) | 1991 |
 
 ## 參考資料
 

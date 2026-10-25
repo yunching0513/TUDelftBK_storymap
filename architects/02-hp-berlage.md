@@ -22,9 +22,9 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 阿姆斯特丹商品交易所（Beurs van Berlage） | 1898–1903 |
-| 倫敦荷蘭大樓（Holland House） | 1916 |
-| 台夫特演講〈論建築可能的發展〉 | 1905 |
+| [阿姆斯特丹商品交易所（Beurs van Berlage）](https://en.wikipedia.org/wiki/Beurs_van_Berlage) | 1898–1903 |
+| [倫敦荷蘭大樓（Holland House）](https://en.wikipedia.org/wiki/Hendrik_Petrus_Berlage) | 1916 |
+| [台夫特演講〈論建築可能的發展〉](https://pure.uva.nl/ws/files/50255496/Proefschrift.pdf) | 1905 |
 
 ## 參考資料
 

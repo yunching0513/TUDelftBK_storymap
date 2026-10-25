@@ -22,11 +22,11 @@
 
 | 作品 | 年代 |
 | --- | --- |
-| 東北圩田新村Nagele村落設計 | 1948–1954 |
-| 阿姆斯特丹Slotermeer長者住宅 | 1951–1952 |
-| 阿姆斯特丹市立孤兒院（Burgerweeshuis） | 1955–1960 |
-| 阿姆斯特丹Hubertushuis | 1973–1978 |
-| ESA-ESTEC餐廳與會議中心，諾德韋克 | 1984–1990 |
+| [東北圩田新村Nagele村落設計](https://en.wikipedia.org/wiki/Nagele) | 1948–1954 |
+| [阿姆斯特丹Slotermeer長者住宅](https://en.wikipedia.org/wiki/Aldo_van_Eyck) | 1951–1952 |
+| [阿姆斯特丹市立孤兒院（Burgerweeshuis）](https://nl.wikipedia.org/wiki/Burgerweeshuis_(Amsterdam)) | 1955–1960 |
+| [阿姆斯特丹Hubertushuis](https://nl.wikipedia.org/wiki/Hubertushuis) | 1973–1978 |
+| [ESA-ESTEC餐廳與會議中心，諾德韋克](https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre) | 1984–1990 |
 
 ## 參考資料
 
