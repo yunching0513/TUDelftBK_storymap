@@ -1,4 +1,4 @@
-# 07｜范埃斯特倫（Cornelis van Eesteren，1897–1988）
+# 08｜范埃斯特倫（Cornelis van Eesteren，1897–1988）
 
 **台夫特都市計畫教授（1947–1967）；CIAM主席（1930–1947）**
 

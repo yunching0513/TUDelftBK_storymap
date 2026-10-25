@@ -1,4 +1,4 @@
-# 09｜赫茲伯格（Herman Hertzberger，1932–）
+# 10｜赫茲伯格（Herman Hertzberger，1932–）
 
 **台夫特教授（1970–1999）；Berlage研究院創辦人**
 

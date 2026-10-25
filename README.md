@@ -3,30 +3,34 @@
 從運河邊的建築學程到設計名校：台夫特理工大學建築學院（Faculteit Bouwkunde）1842–2026年的發展史，以De Stijl風格派的視覺語言製作成中英雙語故事地圖。
 
 - 故事地圖：<https://yunching0513.github.io/TUDelftBK_storymap/>（[docs/index.html](docs/index.html)）
-- 十位建築師簡介：<https://yunching0513.github.io/TUDelftBK_storymap/architects.html>（Markdown版見[docs/architects/](docs/architects/README.md)）
+- 十四位建築師與學者簡介：<https://yunching0513.github.io/TUDelftBK_storymap/architects.html>（Markdown版見[docs/architects/](docs/architects/README.md)）
 
 ## 內容
 
 | 檔案 | 說明 |
 | --- | --- |
 | `docs/index.html` | 中英雙語故事地圖，十二個站點，捲動時地圖在台夫特街區與荷蘭全國之間移動 |
-| `docs/architects.html` | 十位與台夫特建築系相關的建築師：生平、代表作品與參考資料 |
+| `docs/architects.html` | 十四位與台夫特建築系相關的建築師與學者（含四位女性）：生平、代表作品與參考資料 |
 | `docs/architects/*.md` | 同上內容的Markdown版本 |
 | `docs/assets/img/` | 歷史照片與作品照片（授權見各圖說） |
 | `docs/assets/photos/` | 吳昀慶於BK City拍攝的照片 |
 
-## 十位建築師
+## 十四位建築師與學者
 
 1. [古格爾（Eugen Gugel，1832–1905）](docs/architects/01-eugen-gugel.md)：台夫特第一位建築教授（1864–1902）
 2. [貝拉赫（Hendrik Petrus Berlage，1856–1934）](docs/architects/02-hp-berlage.md)：荷蘭現代建築之父；1905年在台夫特演講
-3. [格蘭普雷・莫利耶（Marinus Jan Granpré Molière，1883–1972）](docs/architects/03-granpre-moliere.md)：台夫特教授（1924–1953）；台夫特學派創始者
-4. [杜伊克（Jan Duiker，1890–1935）](docs/architects/04-jan-duiker.md)：台夫特出身的「新建築」先驅
-5. [范登布魯克（Jo van den Broek，1898–1978）](docs/architects/05-jo-van-den-broek.md)：台夫特建築教授（1947–1964）
-6. [貝克瑪（Jaap Bakema，1914–1981）](docs/architects/06-jaap-bakema.md)：台夫特教授（1963–1981）；Team 10核心成員
-7. [范埃斯特倫（Cornelis van Eesteren，1897–1988）](docs/architects/07-cornelis-van-eesteren.md)：台夫特都市計畫教授（1947–1967）；CIAM主席（1930–1947）
-8. [凡艾克（Aldo van Eyck，1918–1999）](docs/architects/08-aldo-van-eyck.md)：台夫特教授（1966–1984）；Team 10共同創立者
-9. [赫茲伯格（Herman Hertzberger，1932–）](docs/architects/09-herman-hertzberger.md)：台夫特教授（1970–1999）；Berlage研究院創辦人
-10. [韋伯（Carel Weeber，1937–2025）](docs/architects/10-carel-weeber.md)：台夫特教授（1970–2003）
+3. [沃芬斯伯格（Grada Wolffensperger，1887–1965）](docs/architects/03-grada-wolffensperger.md)：台夫特第一位女性建築工程師（1917）
+4. [格蘭普雷・莫利耶（Marinus Jan Granpré Molière，1883–1972）](docs/architects/04-granpre-moliere.md)：台夫特教授（1924–1953）；台夫特學派創始者
+5. [杜伊克（Jan Duiker，1890–1935）](docs/architects/05-jan-duiker.md)：台夫特出身的「新建築」先驅
+6. [范登布魯克（Jo van den Broek，1898–1978）](docs/architects/06-jo-van-den-broek.md)：台夫特建築教授（1947–1964）
+7. [貝克瑪（Jaap Bakema，1914–1981）](docs/architects/07-jaap-bakema.md)：台夫特教授（1963–1981）；Team 10核心成員
+8. [范埃斯特倫（Cornelis van Eesteren，1897–1988）](docs/architects/08-cornelis-van-eesteren.md)：台夫特都市計畫教授（1947–1967）；CIAM主席（1930–1947）
+9. [凡艾克（Aldo van Eyck，1918–1999）](docs/architects/09-aldo-van-eyck.md)：台夫特教授（1966–1984）；Team 10共同創立者
+10. [赫茲伯格（Herman Hertzberger，1932–）](docs/architects/10-herman-hertzberger.md)：台夫特教授（1970–1999）；Berlage研究院創辦人
+11. [韋伯（Carel Weeber，1937–2025）](docs/architects/11-carel-weeber.md)：台夫特教授（1970–2003）
+12. [博勒瑞（Franziska Bollerey，Prof. from 1979）](docs/architects/12-franziska-bollerey.md)：建築與都市史學者；建築系第一位女性教授（1979）
+13. [胡本（Francine Houben，1955–）](docs/architects/13-francine-houben.md)：Mecanoo創辦人；台夫特「移動美學」教授（2000–2009）
+14. [德弗里斯（Nathalie de Vries，1965–）](docs/architects/14-nathalie-de-vries.md)：MVRDV共同創辦人；台夫特「建築設計：公共建築」教授
 
 ## 資料與授權
 

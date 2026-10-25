@@ -1,4 +1,4 @@
-# 03｜格蘭普雷・莫利耶（Marinus Jan Granpré Molière，1883–1972）
+# 04｜格蘭普雷・莫利耶（Marinus Jan Granpré Molière，1883–1972）
 
 **台夫特教授（1924–1953）；台夫特學派創始者**
 
